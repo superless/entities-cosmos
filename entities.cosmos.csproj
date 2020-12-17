@@ -28,7 +28,7 @@
     <projectUrl>https://connect.trifenix.io/nuget-packages/trifenix.connect.entities.cosmos</projectUrl>
     <iconUrl>https://logos.trifenix.io/logo.48x48.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Entidad base de trifenix connect</description>
+    <description>Entidades base para base de datos cosmos db usadas en trifenix connect.</description>
     <releaseNotes>Pendiente</releaseNotes>
     <copyright>MIT Open Source</copyright>
     <IsPackable>true</IsPackable>
