@@ -22,7 +22,7 @@
     <releaseBadgeUrl>https://feeds.dev.azure.com/trifenix-connect/_apis/public/Packaging/Feeds/4227dc51-6e8c-42c1-97ca-a33e6615385d/Packages/2b2a691b-0198-4745-9b09-12fee3db522c/Badge</releaseBadgeUrl>
     <id>trifenix.connect.entities.cosmos</id>    
     <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
-    <title>MdM</title>
+    <title>Trifenix Entities Cosmos</title>
     <authors>Trifenix</authors>
     <owners>trifenix</owners>
     <projectUrl>https://connect.trifenix.io/nuget-packages/trifenix.connect.entities.cosmos</projectUrl>
