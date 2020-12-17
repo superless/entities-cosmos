@@ -37,7 +37,7 @@
     <summary>Entidades bases para bases de datos cosmosdb usadas en trifenix connect</summary>    
     <TargetsForTfmSpecificBuildOutput>$(TargetsForTfmSpecificBuildOutput);CopyProjectReferencesToPackage
     </TargetsForTfmSpecificBuildOutput>
-    <DocumentationFile>entities.cosmos.csproj</DocumentationFile>
+    <DocumentationFile>entities.cosmos.xml</DocumentationFile>
   </PropertyGroup>
 
 
