@@ -5,7 +5,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="connect" Version="0.8.48" />
+    <PackageReference Include="trifenix.connect" Version="0.8.52" />
     <PackageReference Include="cosmonaut" Version="2.11.3" />
   </ItemGroup>
 
@@ -24,7 +24,7 @@
     <releaseBadgeUrl>https://feeds.dev.azure.com/trifenix-connect/_apis/public/Packaging/Feeds/4227dc51-6e8c-42c1-97ca-a33e6615385d/Packages/2b2a691b-0198-4745-9b09-12fee3db522c/Badge</releaseBadgeUrl>
     <id>trifenix.connect.entities.cosmos</id>    
     <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
-    <title>Trifenix Entities Cosmos</title>
+    <title>trifenix.connect.entities.cosmos</title>
     <authors>Trifenix</authors>
     <owners>trifenix</owners>
     <projectUrl>https://connect.trifenix.io/nuget-packages/trifenix.connect.entities.cosmos</projectUrl>
@@ -39,7 +39,7 @@
     <summary>Entidades bases para bases de datos cosmosdb usadas en trifenix connect</summary>    
     <TargetsForTfmSpecificBuildOutput>$(TargetsForTfmSpecificBuildOutput);CopyProjectReferencesToPackage
     </TargetsForTfmSpecificBuildOutput>
-    <DocumentationFile>entities.cosmos.xml</DocumentationFile>
+    <DocumentationFile>trifenix.connect.entities.cosmos.xml</DocumentationFile>
   </PropertyGroup>
 
   <Target Name="CopyProjectReferencesToPackage" DependsOnTargets="BuildOnlySettings;ResolveReferences">
