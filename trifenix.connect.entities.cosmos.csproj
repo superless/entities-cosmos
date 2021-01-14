@@ -5,7 +5,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="trifenix.connect" Version="0.8.52" />
+    <PackageReference Include="trifenix.connect" Version="0.8.66" />
     <PackageReference Include="cosmonaut" Version="2.11.3" />
   </ItemGroup>
 
